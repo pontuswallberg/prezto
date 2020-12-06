@@ -19,5 +19,5 @@ alias j=fasd_cd
 
 alias chrome='open -a /Applications/Google\ Chrome.app'
 
-export WEBRD_REPO_PATH=~/Development/web-rnd
+export WEBRD_REPO_PATH=~/Developer/web-rnd
 source $WEBRD_REPO_PATH/catproxy/env.sh

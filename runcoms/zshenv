@@ -15,7 +15,7 @@ export OPENSSL_LIB_DIR=/usr/local/opt/openssl/lib
 export OPENSSL_INCLUDE_DIR=/usr/local/opt/openssl/include
 export LIBRARY_PATH="$LIBRARY_PATH:/usr/local/lib/"
 
-export MYCONFIGURA_VOLUME_PATH=$HOME/Development/Configura/
+export MYCONFIGURA_VOLUME_PATH=$HOME/Developer/Configura/
 export MYCONFIGURA_DOCKER_PATH=$MYCONFIGURA_VOLUME_PATH
 
 source $MYCONFIGURA_VOLUME_PATH/MyConfigura/setup/bash/myconfigura.sh
